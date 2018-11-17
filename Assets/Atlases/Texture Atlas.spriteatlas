@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Texture Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 438a6fe1f6f7bc644a1442167fe52e06, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 883366a0a95ac594689426b016ddbd5c, type: 3}
+  - {fileID: 21300000, guid: 86c39302230213c4db95af34a436c426, type: 3}
+  - {fileID: 21300000, guid: 92b90072b80e33b4bbb6f39bcdabf997, type: 3}
+  - {fileID: 21300000, guid: 1eafc5a31d4b07045b4e92d2adc704ab, type: 3}
+  - {fileID: 21300000, guid: bb4a71d3de369bc4ab4bda8c9469ba9a, type: 3}
+  - {fileID: 21300000, guid: 237661a423341df45be12f2e0d3440cc, type: 3}
+  - {fileID: 21300000, guid: cd5130057dc20fe4fa10a43c5a7cef4e, type: 3}
+  - {fileID: 21300000, guid: 6b7bd7354482f3f4fade0e2b4006c02d, type: 3}
+  - {fileID: 21300000, guid: 264e9c859d5a58542aea9516c868a899, type: 3}
+  - {fileID: 21300000, guid: 9206b4e6a4ea790469d52f33b09f0a53, type: 3}
+  - {fileID: 21300000, guid: 3889ed57f94923d4bb2d260512b433c1, type: 3}
+  - {fileID: 21300000, guid: 20b9482892bf73740a1bb2f26709f6be, type: 3}
+  - {fileID: 21300000, guid: a48f07685a4edef4580bbf4537c2e551, type: 3}
+  - {fileID: 21300000, guid: 4eda9278450ac02448e2fb82a9c089ca, type: 3}
+  - {fileID: 21300000, guid: ad3b35b85567b56458d5c510c0914abb, type: 3}
+  - {fileID: 21300000, guid: 952b63c8b99b64c49be54db6a2705e08, type: 3}
+  - {fileID: 21300000, guid: 64a7fd6a39f7d194daf4dad5615c782b, type: 3}
+  - {fileID: 21300000, guid: 044a24dae3f2e8744a14ef878bbf2b27, type: 3}
+  - {fileID: 21300000, guid: 949ae35b98f50d14e9eb32e82468ddcc, type: 3}
+  - {fileID: 21300000, guid: 94aa918b20559c447a1bb66c3f691529, type: 3}
+  - {fileID: 21300000, guid: 768c007c430918844adcc25350ea6612, type: 3}
+  - {fileID: 21300000, guid: b42a75ed0c618e348af2b2afcf71b548, type: 3}
+  - {fileID: 21300000, guid: 12ec2e0e5adf99b4aaf19b85e799dc05, type: 3}
+  - {fileID: 21300000, guid: 1d994e0eb94fcbe40b04057aaa6b263e, type: 3}
+  - {fileID: 21300000, guid: d24540bea4b16b4469de8317e197cada, type: 3}
+  - {fileID: 21300000, guid: 454772be6c1b89946b5267483df19b50, type: 3}
+  - {fileID: 21300000, guid: 7ad26f9fb9155e347a798bb191ea9335, type: 3}
+  - {fileID: 21300000, guid: 46df75afbda4eb54fb2ef76aa421dd4f, type: 3}
+  - {fileID: 21300000, guid: 2a51bfbf2b594b2499c9c4d02281a086, type: 3}
+  - {fileID: 21300000, guid: 5fc2bfcf2eb420742b1a7c668e6af714, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - monkey
+  - giraffe
+  - bear
+  - snake
+  - owl
+  - parrot
+  - chicken
+  - crocodile
+  - narwhal
+  - rabbit
+  - penguin
+  - whale
+  - rhino
+  - horse
+  - frog
+  - zebra
+  - chick
+  - panda
+  - cow
+  - buffalo
+  - pig
+  - hippo
+  - moose
+  - sloth
+  - walrus
+  - dog
+  - gorilla
+  - elephant
+  - goat
+  - duck
+  m_Tag: Texture Atlas
+  m_IsVariant: 0
